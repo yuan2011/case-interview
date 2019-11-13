@@ -1,4 +1,8 @@
 # case-interview
+
+[![case-interview](https://img.shields.io/badge/case--interview-v1.0.0-brightgreen)](https://github.com/yuan2011/case-interview)&nbsp;
+
+
 面试
 
 # 研发工程师
