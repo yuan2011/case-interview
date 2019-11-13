@@ -8,5 +8,5 @@
 # 测试工程师
 [常见问题](/QA-engineer/question.txt)
 
-## [编程](./QA-engineer/program)
-  [1，读取配置文件](./QA-engineer/program/get-conf)
+## [编程]
+  [1，用任意语言读取配置文件](./QA-engineer/program/get-conf)
