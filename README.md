@@ -27,12 +27,13 @@
   * 编程
       * [1，用任意语言读取配置文件](./QA-engineer/program/get-conf)
       * ...
-#### [系统工程师](/QA-engineer/question.txt)
+#### [系统工程师（CI/CD）](/QA-engineer/question.txt)
 * perl
   * [常见问题](/software-engineer/question.txt)
   * 编程
       * [1，用任意语言读取配置文件](./QA-engineer/program/get-conf)
       * ...
+#### [运维工程师](/software-engineer/question.txt)
 #### [项目经理](/software-engineer/question.txt)
 #### [产品经理](/software-engineer/question.txt)
 #### [逻辑题/通用问题](/common.txt)
