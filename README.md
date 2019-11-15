@@ -5,8 +5,7 @@
 - 2、为了提升技能，查漏补缺
 - 3、资源分享、也希望受益的你提供一点点贡献给开源世界
 ## 目录(Contents)
-#### 研发工程师 
-- [常见问题](/QA-engineer/question.txt)
+####  [研发工程师](/QA-engineer/question.txt)
 * java
   * [常见问题](/software-engineer/question.txt)
   * 编程
@@ -22,15 +21,13 @@
   * 编程
       * 1
       * ...
-#### 测试工程师
-- [常见问题](/QA-engineer/question.txt)
+#### [测试工程师](/QA-engineer/question.txt)
 * shell(bash)
   * [常见问题](/software-engineer/question.txt)
   * 编程
       * [1，用任意语言读取配置文件](./QA-engineer/program/get-conf)
       * ...
-#### 系统工程师
-- [常见问题](/QA-engineer/question.txt)
+#### [系统工程师](/QA-engineer/question.txt)
 * perl
   * [常见问题](/software-engineer/question.txt)
   * 编程
