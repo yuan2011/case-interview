@@ -45,11 +45,3 @@
 每年学习一门编程语言，每三个月阅读一本技术书籍，同时阅读非技术书籍
 - [算法](https://github.com/nonstriater/Learn-Algorithms "点击")
 - [经典编程书籍大全](https://github.com/jobbole/awesome-programming-books "点击")
-
-
-## 参与作者汇总(Author)
-
-|作者(按参与时间排序)|地址|
-|:---------|:---------|
-|路人甲|<http://>|
-|路人乙|<https://>|
