@@ -58,7 +58,8 @@
 
 ### 面试记录
 - [北京志翔科技](/actual/北京志翔科技/)
-
+- 1
+- 2
 ## 推荐
 每年学习一门编程语言，每三个月阅读一本技术书籍，同时阅读非技术书籍
 - [算法](https://github.com/nonstriater/Learn-Algorithms "点击")
