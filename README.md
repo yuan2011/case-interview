@@ -1,7 +1,5 @@
 # case-interview
-
 [![case-interview](https://img.shields.io/badge/case--interview-v1.0.0-brightgreen)](https://github.com/yuan2011/case-interview)&nbsp;
-
 ## 项目目的：
 - 1、是为了给IT求职迷茫的朋友些许帮助
 - 2、为了提升技能，查漏补缺
@@ -18,14 +16,11 @@
 * c/c++
   * [常见问题](/software-engineer/question.txt)
   * 编程
-      * 1
-      * 2
       * ...
 * python
   * [常见问题](/software-engineer/question.txt)
   * 编程
       * 1
-      * 2
       * ...
 ### 测试工程师
 - [常见问题](/QA-engineer/question.txt)
@@ -33,7 +28,6 @@
   * [常见问题](/software-engineer/question.txt)
   * 编程
       * [1，用任意语言读取配置文件](./QA-engineer/program/get-conf)
-      * 2
       * ...
 ### 系统工程师
 - [常见问题](/QA-engineer/question.txt)
@@ -41,10 +35,9 @@
   * [常见问题](/software-engineer/question.txt)
   * 编程
       * [1，用任意语言读取配置文件](./QA-engineer/program/get-conf)
-      * 2
       * ...
-#### [项目经理](/software-engineer/question.txt)
-#### [产品经理](/software-engineer/question.txt)
+### [项目经理](/software-engineer/question.txt)
+### [产品经理](/software-engineer/question.txt)
 ### [逻辑题/通用问题](/common.txt)
 ### [反向面试](https://github.com/yifeikong/reverse-interview-zh "点击")
 ### [面试记录](/actual/北京志翔科技/)
