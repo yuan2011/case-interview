@@ -43,15 +43,10 @@
       * [1，用任意语言读取配置文件](./QA-engineer/program/get-conf)
       * 2
       * ...
-
-#### perl
-- [常见问题](/software-engineer/question.txt)
-
-### 逻辑题/通用问题
-- 通用问题(/common.txt)
-
+#### [项目经理](/software-engineer/question.txt)
+#### [产品经理](/software-engineer/question.txt)
+### [逻辑题/通用问题](/common.txt)
 ### [反向面试](https://github.com/yifeikong/reverse-interview-zh "点击")
-
 ### [面试记录](/actual/北京志翔科技/)
 ## 推荐
 每年学习一门编程语言，每三个月阅读一本技术书籍，同时阅读非技术书籍
