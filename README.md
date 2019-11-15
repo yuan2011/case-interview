@@ -6,10 +6,7 @@
 - 1、是为了给IT求职迷茫的朋友些许帮助
 - 2、为了提升技能，查漏补缺
 - 3、资源分享、也希望受益的你提供一点点贡献给开源世界
-
-
 ## 目录(Contents)
-
 ### 研发工程师 
 - [常见问题](/QA-engineer/question.txt)
 * java
@@ -53,13 +50,9 @@
 ### 逻辑题/通用问题
 - 通用问题(/common.txt)
 
-### 反向面试
-- [技术面试最后反问面试官的话](https://github.com/yifeikong/reverse-interview-zh "点击")
+### [反向面试](https://github.com/yifeikong/reverse-interview-zh "点击")
 
-### 面试记录
-- [北京志翔科技](/actual/北京志翔科技/)
-- 1
-- 2
+### [面试记录](/actual/北京志翔科技/)
 ## 推荐
 每年学习一门编程语言，每三个月阅读一本技术书籍，同时阅读非技术书籍
 - [算法](https://github.com/nonstriater/Learn-Algorithms "点击")
